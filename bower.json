@@ -1,0 +1,20 @@
+{
+  "name": "Prodobe",
+  "homepage": "https://github.com/4lk4tr43/Prodobe",
+  "authors": [
+    "4lk4tr43@gmail.com <4lk4tr43@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}

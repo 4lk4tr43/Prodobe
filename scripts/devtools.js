@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Prodobe", "images/icon.png", "htmls/panel.html", function(panel) {});
